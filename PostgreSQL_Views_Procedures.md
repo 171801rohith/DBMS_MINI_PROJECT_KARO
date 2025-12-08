@@ -1,7 +1,5 @@
 # PostgreSQL Views, Stored Procedures, and Triggers
 
-This document contains the SQL definitions for Views, Stored Procedures, and Triggers designed for the Loan Management System.
-
 ## 1. Views
 
 ### `v_borrower_portfolio`
